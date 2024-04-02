@@ -1,0 +1,169 @@
+body{
+    margin: 0px;
+    font-family:sans-serif;
+}
+
+.menu h1{
+    text-align: center;
+}
+
+.site-navigation {
+    margin: 2% 20%;
+}
+
+.site-navigation ul, li {
+  margin: 0; 
+  padding: 0;
+}
+
+.site-navigation li {
+  display: inline-block;
+  margin: 1em 1em 1em 1em;
+}
+
+.fa{
+  text-decoration: none;
+  color: black;
+}
+
+.recherche{
+    background-color : rgb(240,240,240);
+    width: 80%;
+    height: 80px;
+    margin: 10px auto;
+}
+
+.partie-gauche{
+    width: 50%;
+    background-color: ;
+    float: left;
+}
+
+.partie-droite{
+    width: 50%;
+    float: left;
+}
+
+form{
+    padding: 20px 30px;
+}
+
+input{
+    width: 350px;
+    height: 30px;
+}
+
+.button{
+    background-color: yellow;
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.lien{
+    margin: 30px 40px;
+}
+
+.center{
+    width: 80%;
+    margin: 10px auto;
+}
+
+.voir-plus{
+    margin: 30px 10px;
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+    cursor: pointer;
+}
+
+.button-in{
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    width: 100px;
+    height: 30px;
+    font-weight:;
+    border: 1px outset gainsboro;
+    border-radius: 20px;
+    cursor: pointer;
+    position:fixed;
+    left: 10px;
+    top: 680px;
+}
+
+.button-screens{
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    width: 100px;
+    height: 30px;
+    font-weight:;
+    border: 1px outset gainsboro;
+    border-radius: 20px;
+    cursor: pointer;
+    position:fixed;
+    left: 1400px;
+    top: 680px;
+}
+
+.button-code{
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    width: 30px;
+    height: 30px;
+    font-weight:;
+    border: 1px outset gainsboro;
+    border-radius: 20px;
+    cursor: pointer;
+    position:fixed;
+    left: 1360px;
+    top: 680px;
+}
+
+.button-search{
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    width: 30px;
+    height: 30px;
+    font-weight:;
+    border: 1px outset gainsboro;
+    border-radius: 20px;
+    cursor: pointer;
+    position:fixed;
+    left: 1320px;
+    top: 680px;
+}
+
+.button-chat{
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    width: 30px;
+    height: 30px;
+    font-weight:;
+    border: 1px outset gainsboro;
+    border-radius: 20px;
+    cursor: pointer;
+    position:fixed;
+    left: 1280px;
+    top: 680px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
